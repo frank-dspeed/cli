@@ -44,9 +44,9 @@
     "is-ci": "^1.0.7",
     "istanbul": "^0.4.2",
     "jshint": "^2.8.0",
-    "mocha": "^2.2.5",
+    "mocha": "^3.1.2",
     "mocha-lcov-reporter": "^1.2.0",
-    "mockery": "^1.4.1",
+    "mockery": "^2.0.0",
     "rimraf": "^2.5.2"
   },
   "dependencies": {
@@ -57,7 +57,7 @@
     "q": "^1.4.1",
     "steal-platform": "0.0.4",
     "yeoman-environment": "^1.2.7",
-    "yeoman-generator": "^0.22.3"
+    "yeoman-generator": "^0.24.1"
   },
   "donejs": {
     "dependencies": {
